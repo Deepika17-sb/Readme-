@@ -25,8 +25,8 @@ I enjoy building real-world projects, exploring new technologies, and diving dee
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![MYSQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 ---
 
