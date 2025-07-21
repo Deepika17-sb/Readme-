@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and curious developer with hands-on experience in **Python**, **C++**, **HTML5**, **CSS**, and **SQL**.  
+I'm a passionate and curious developer with hands-on experience in **Python**, **C++**, **HTML5**, **CSS3**, and **MYSQL**.  
 I enjoy building real-world projects, exploring new technologies, and diving deep into problem-solving.
 
 - 🔭 Currently working on: Full-stack projects and smart backend solutions  
@@ -41,7 +41,8 @@ I enjoy building real-world projects, exploring new technologies, and diving dee
 
 Here are some projects I'm proud of:
 
-- [**Project One**](https://github.com/Deepika17-sb/project-one) — _Brief explanation or feature highlight_
+- [**Project One**](https://github.com/Deepika17-sb/project-one) — ai crop prediction 
+this is ai prediction where farmers gets to know about the weather and government schemes 
 - [**Project Two**](https://github.com/Deepika17-sb/project-two) — _Another quick description_
 
 (Working on more—stay tuned!)
